@@ -124,7 +124,8 @@ figure {
 .left {
   float: right;
   margin-top: -20px;
-  font-weight: bold;
+  font-size: 20px;
+  font-weight: bolder;
 }
 .card {
   width: 60%;
@@ -149,7 +150,7 @@ figure {
   padding: 5px 15px;
   border-radius: 5px;
   background-color: #3882f6;
-  border: 1px solid #f9faf8;
+  border: 2px solid #f9faf8;
   color: #f9faf8;
   width: 120px;
 }
