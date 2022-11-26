@@ -58,18 +58,18 @@ ul {
   justify-content: space-between;
   height: 35vh;
 }
-.header-content .main-text {
+.header-content .header-main-text {
   font-family: "bold", sans-serif;
   font-weight: bold;
   font-size: 48px;
   color: #f9faf8;
 }
-.header-content .sec-text {
+.header-content .header-sec-text {
   width: 80%;
   font-size: 18px;
   color: #e5e7eb;
 }
-.header-content button {
+.header-content .header-button {
   padding: 5px 10px;
   background: #3882f6;
   border-radius: 5px;
@@ -84,7 +84,7 @@ section {
   width: 50%;
   margin: 35px auto;
 }
-.title {
+.main-title {
   text-align: center;
   font-size: 4vmin;
   font-family: "bold", sans-serif;
@@ -121,13 +121,13 @@ figure {
   font-size: 36px;
   color: #1f2937;
 }
-.left {
+.quote-left {
   float: right;
   margin-top: -20px;
   font-size: 20px;
   font-weight: bolder;
 }
-.card {
+.card-signup {
   width: 60%;
   margin: 5% 18%;
   height: 15vh;
@@ -141,12 +141,12 @@ figure {
   font-family: "normal", sans-serif;
   font-weight: normal;
 }
-.card p {
+.card-signup p {
   margin-top: -12px;
   width: 80%;
   font-size: small;
 }
-.card button {
+.card-signup button {
   padding: 5px 15px;
   border-radius: 5px;
   background-color: #3882f6;
